@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86dc1999-c468-4d73-a121-8084d71542af" name="Changes" comment="added workspace.xml to .gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="86dc1999-c468-4d73-a121-8084d71542af" name="Changes" comment="p1 branch parvin2 method is created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,11 @@
     <option name="BRANCH" value="p1" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="p1" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,6 +59,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -76,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688303055240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added many files to gitignore">
+      <created>1688304002252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688304002252</updated>
+    </task>
+    <task id="LOCAL-00003" summary="p1 branch parvin2 method is created">
+      <created>1688304078104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688304078104</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added workspace.xml to .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added workspace.xml to .gitignore" />
+    <MESSAGE value="added many files to gitignore" />
+    <MESSAGE value="p1 branch parvin2 method is created" />
+    <option name="LAST_COMMIT_MESSAGE" value="p1 branch parvin2 method is created" />
   </component>
 </project>
