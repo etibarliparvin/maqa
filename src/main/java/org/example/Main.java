@@ -16,4 +16,8 @@ public class Main {
     public static void parvin3() {
         System.out.println("This is parvin3 method in p2 branch");
     }
+
+    public static void parvin4() {
+        System.out.println("This is parvin4 method in p3 branch");
+    }
 }
