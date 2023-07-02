@@ -8,4 +8,8 @@ public class Main {
     public static void parvin1() {
         System.out.println("This is parvin1 method in p1 branch");
     }
+
+    public static void parvin2() {
+        System.out.println("This is parvin2 method in p2 branch");
+    }
 }
